@@ -15,3 +15,4 @@ These updates were designed with clarity, accessibility, and professional presen
 - 🗂️ Card-style sections for History, Mission, and JOBIE
 - ➗ Dividers for clear content separation
 - 🏠 Redesigned Homepage for improved navigation and visual structure
+https://gist.github.com/AllisonLacy/de65d3301a33a767d95fe6eacb3d97e2
